@@ -3,7 +3,7 @@
 </script>
 
 <template>
-
+  <p>Tutorials component</p>
 </template>
 
 <style scoped>
